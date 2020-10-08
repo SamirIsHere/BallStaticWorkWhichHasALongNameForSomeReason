@@ -1,2 +1,2 @@
-# BallStaticWorkWhichHasALongNameForSomeReason
-Ball Static Work Which Has A Long Name For Some Reason
+# staticSquare
+A static square made using Matter.js physics engine
